@@ -11,7 +11,7 @@ Você está procurando algo de interessante por aqui? Hm.
 - <code>🤓</code> Sou um Developer;
 - <code>⭐</code> Produzindo projetos grandes;
 - <code>🧠</code> Estudando todas linguagens existentes;
-- <code>🕸️</code> meu servidor do [Discord](https://discord.gg/projetox).
+- <code>🕸️</code> Meu servidor do [Discord](https://discord.gg/projetox).
 
 <h3>Learning</h3>
 
