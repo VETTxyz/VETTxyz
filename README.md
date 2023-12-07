@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4AF626&size=35&center=true&vCenter=true&width=1000&lines=Que+sono...+Sou+o+GusTT!!!+zZZ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4AF626&size=35&center=true&vCenter=true&width=1000&lines=Que+sono...+Sou+o+GuTT!!!+zZZ)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GusTTxyz&bg_color=151515&color=fff&line=444444&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -8,7 +8,7 @@
 
 <div align="center" justify-content="center">
   <a href="https://github.com/GusTTxyz">
-    <img src="https://github-readme-stats.vercel.app/api?username=GusTTxyz&layout=compact&langs_count=7&theme=dark&card_width=420" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GuTTxyz&layout=compact&langs_count=7&theme=dark&card_width=420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusTTxyz&layout=compact&langs_count=7&theme=dark&card_width=420&card_height=200"/>
 </div>
 
