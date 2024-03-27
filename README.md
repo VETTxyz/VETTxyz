@@ -1,11 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4AF626&size=35&center=true&vCenter=true&width=1000&lines=Que+sono...+Sou+o+GuTT!!!+zZZ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4AF626&size=35&center=true&vCenter=true&width=1000&lines=Que+sono...+Sou+o+VETT!!!+zZZ)](https://git.io/typing-svg)
 
 
 
 <div align="center" justify-content="center">
   <a href="https://github.com/GuTTxyz">
-    <img src="https://github-readme-stats.vercel.app/api?username=GuTTxyz&layout=compact&langs_count=7&theme=dark&card_width=420" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VETTxyz&layout=compact&langs_count=7&theme=dark&card_width=420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuTTxyz&layout=compact&langs_count=7&theme=dark&card_width=420&card_height=200"/>
 </div>
 
